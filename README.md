@@ -1,0 +1,2 @@
+# sms-demo
+SCHOOL MANAGEMENT SYSTEM
